@@ -1,12 +1,13 @@
-# stratosphere
+# Stratosphere (alpha)
 
-A general-purpose window that is always on top. Drop files and URLs on it.
+A general-purpose window that is always on top. Drop files and URLs onto it.
 
 Similar to [Helium.app](http://heliumfloats.com/) but written in Electron, so
 it's cross-platform.
 
-<video src="screencast.mp4" width="100%">
-</video>
+Click this image to watch a little screencast:
+
+[![screencast](screenshot.png)](https://cloudup.com/cBP1qVWMWV3)
 
 ## Usage
 
