@@ -2,8 +2,8 @@
 
 A general-purpose window that is always on top. Drop files and URLs onto it.
 
-Similar to [Helium.app](http://heliumfloats.com/) but written in Electron, so
-it's cross-platform.
+Similar to [Helium.app](http://heliumfloats.com/) but written in
+[Electron](https://electron.atom.io), so it's cross-platform.
 
 Click this image to watch a little screencast:
 
