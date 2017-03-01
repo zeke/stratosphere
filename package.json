@@ -1,0 +1,16 @@
+{
+  "name": "stratosphere",
+  "productName": "Stratosphere",
+  "version": "1.0.0",
+  "description": "A general-purpose window that is always on top. Drop files and URLs on it.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/stratosphere",
+  "author": "GitHub",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.4.1"
+  }
+}
